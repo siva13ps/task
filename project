@@ -2,6 +2,6 @@
 int main()
 {
 int a;
-a=66;
+a=76;
 printf("%d", a);
 }
